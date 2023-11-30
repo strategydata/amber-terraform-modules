@@ -1,3 +1,6 @@
+/**
+v0.0.1
+*/
 terraform {
   required_version = ">= 1.0.0, < 2.0.0"
 
